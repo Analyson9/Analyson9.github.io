@@ -8,8 +8,8 @@ plugins:
 
 #-------------------------------
 # General Site Settings
-title: Allison Larg
-description: "Hi I'm Allison, and I'm a flegling Data Scientist"
+title: Analyson
+description: "Under construction..."
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 
